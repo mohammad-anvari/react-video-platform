@@ -1,0 +1,79 @@
+{
+    "Slider":[
+        {"id":1,"img":"../src/Image/img/146695_desktop_1_v1.jpeg"},
+        {"id":2,"img":"../src/Image/img/146730_desktop_1_v1.jpeg"},
+        {"id":3,"img":"../src/Image/img/6tdlb_desktop_1_v3.jpeg"},
+        {"id":4,"img":"../src/Image/img/hk0ow_desktop_1_v1.jpeg"},
+        {"id":5,"img":"../src/Image/img/idrkf_desktop_1_v1 (1).jpeg"},
+        {"id":6,"img":"../src/Image/img/ys15f_desktop_1_v1.jpeg"}
+    ],
+    "ghotb":[
+        {"id":1,"img":"../src/Image/Ghotbeshomal/ghesmat1.webp","name":"فصل 1 قسمت 1"},
+        {"id":2,"img":"../src/Image/Ghotbeshomal/ghesmate2.webp","name":"فصل 1 قسمت 2"},
+        {"id":3,"img":"../src/Image/Ghotbeshomal/ghesate3.webp","name":"فصل 1 قسمت 3"},
+        {"id":4,"img":"../src/Image/Ghotbeshomal/ghesmate4.webp","name":"فصل 1 قسمت 4"}
+    ],
+    "sedato":[
+        {"id":1,"img":"../src/Image/sedato/ghesmate1.webp","name":"فصل 1 قسمت 1 :ایراندخت"},
+        {"id":2,"img":"../src/Image/sedato/ghesmate2.webp","name":"فصل 1 قسمت 2 :کاک وهب"},
+        {"id":3,"img":"../src/Image/sedato/ghesmate3.webp","name":"فصل 1 قسمت 3 :سلام سینما"},
+        {"id":4,"img":"../src/Image/sedato/ghesmate4.webp","name":"فصل 1 قسمت 4 :رفاقت"},
+        {"id":5,"img":"../src/Image/sedato/ghesmate5.webp","name":"فصل 1 قسمت 5 :بچه های ایران"},
+        {"id":6,"img":"../src/Image/sedato/ghesmate6.webp","name":"فصل 1 قسمت 6 :میم مثل مادر"},
+        {"id":7,"img":"../src/Image/sedato/ghesmate7.webp","name":"فصل 1 قسمت 7 :طفلی به نام شادی"},
+        {"id":8,"img":"../src/Image/sedato/ghesmate8.webp","name":"فصل 1 قسمت 8 :برای اینده"}
+    ],
+    "oskar":[
+        {"id":1,"img":"../src/Image/oskar/ghesmate1.webp","name":"فصل 1 قسمت 1"},
+        {"id":2,"img":"../src/Image/oskar/ghesmate2.webp","name":"فصل 1 قسمت 2"},
+        {"id":3,"img":"../src/Image/oskar/ghesmate3.webp","name":"فصل 1 قسمت 3"},
+        {"id":4,"img":"../src/Image/oskar/ghesmate4.webp","name":"فصل 1 قسمت 4"}
+    ],
+    "sepanj":[
+        {"id":1,"img":"../src/Image/sepanj/ghesmate1.webp","name":"فصل 1 قسمت 1"},
+        {"id":2,"img":"../src/Image/sepanj/ghesmate2.webp","name":"فصل 1 قسمت 2"},
+        {"id":3,"img":"../src/Image/sepanj/ghesmate3.webp","name":"فصل 1 قسمت 3"},
+        {"id":4,"img":"../src/Image/sepanj/ghesmate4.webp","name":"فصل 1 قسمت 4"},
+        {"id":5,"img":"../src/Image/sepanj/ghesmate5.webp","name":"فصل 1 قسمت 5"},
+        {"id":6,"img":"../src/Image/sepanj/ghesmate6.webp","name":"فصل 1 قسمت 6"},
+        {"id":7,"img":"../src/Image/sepanj/ghesmate7.webp","name":"فصل 1 قسمت 7"},
+        {"id":8,"img":"../src/Image/sepanj/ghesmate8.webp","name":"فصل 1 قسمت 8"}
+    ],
+    "zodiak":[
+        {"id":1,"img":"../src/Image/zodiak/amozesh.webp","name":"اموزش شب های مافیا : زودیاک"},
+        {"id":2,"img":"../src/Image/zodiak/ghesmate1.webp","name":"فصل 1 قسمت 1"},
+        {"id":3,"img":"../src/Image/zodiak/ghesmate2.webp","name":"فصل 1 قسمت 2"},
+        {"id":4,"img":"../src/Image/zodiak/ghesmate3.webp","name":"فصل 1 قسمت 3"},
+        {"id":5,"img":"../src/Image/zodiak/ghesmate4.webp","name":"فصل 1 قسمت 4"},
+        {"id":6,"img":"../src/Image/zodiak/ghesmate5.webp","name":"فصل 1 قسمت 5"},
+        {"id":7,"img":"../src/Image/zodiak/ghesmate6.webp","name":"فصل 1 قسمت 6"},
+        {"id":8,"img":"../src/Image/zodiak/ghesmate7.webp","name":"فصل 1 قسمت 7"}
+    ],
+    "pesaredolfini":[
+        {"id":1,"img":"../src/Image/pesaredolfini/ghesmate1.webp","name":"فصل 1 قسمت 1"},
+        {"id":2,"img":"../src/Image/pesaredolfini/ghesmate2.webp","name":"فصل 1 قسمت 2"},
+        {"id":3,"img":"../src/Image/pesaredolfini/ghesmate3.webp","name":"فصل 1 قسمت 3"},
+        {"id":4,"img":"../src/Image/pesaredolfini/ghesmate4.webp","name":"فصل 1 قسمت 4"},
+        {"id":5,"img":"../src/Image/pesaredolfini/ghesmate5.webp","name":"فصل 1 قسمت 5"},
+        {"id":6,"img":"../src/Image/pesaredolfini/ghesmate6.webp","name":"فصل 1 قسمت 6"},
+        {"id":7,"img":"../src/Image/pesaredolfini/ghesmate7.webp","name":"فصل 1 قسمت 7"},
+        {"id":8,"img":"../src/Image/pesaredolfini/ghesmate8.webp","name":"فصل 1 قسمت 8"}
+    ],
+    "free":[
+        {"id":1,"img":"../src/Image/Free/post1.webp","name":"پایتخت"},
+        {"id":2,"img":"../src/Image/Free/post2.webp","name":"عقرب"},
+        {"id":3,"img":"../src/Image/Free/post3.webp","name":"ملکه گدایان"},
+        {"id":4,"img":"../src/Image/Free/post4.webp","name":"ویرانگر"},
+        {"id":5,"img":"../src/Image/Free/post5.webp","name":"شاهرگ"},
+        {"id":6,"img":"../src/Image/Free/post6.webp","name":"بالشها"},
+        {"id":7,"img":"../src/Image/Free/post7.webp","name":"حماسه دره شیلر"},
+        {"id":8,"img":"../src/Image/Free/post8.webp","name":"راز دشت تاران"},
+        {"id":9,"img":"../src/Image/Free/post9.webp","name":"چپ دست"},
+        {"id":10,"img":"../src/Image/Free/post10.webp","name":"شب های مافیا 2"},
+        {"id":11,"img":"../src/Image/Free/post11.webp","name":"مردم معمولی"},
+        {"id":12,"img":"../src/Image/Free/post12.webp","name":"دیرین دیرین"},
+        {"id":13,"img":"../src/Image/Free/post13.webp","name":"سال های دور از خانه"},
+        {"id":14,"img":"../src/Image/Free/post14.webp","name":"دارکولا"},
+        {"id":15,"img":"../src/Image/Free/post15.webp","name":"زهر عسل"}
+    ]
+}

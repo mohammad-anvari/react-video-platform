@@ -1,0 +1,5 @@
+
+.bg-cinema{
+    background-color: rgba(45, 26, 30, 0.449);
+    backdrop-filter: blur(20px);
+}

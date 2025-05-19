@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'fontsansiran';
+    src: url(../Fonts/IRANSansX-Light.woff2);
+}
+@font-face {
+    font-family: 'fontsansnum';
+    src: url(../Fonts/IRANSansXFaNum-Regular.woff);
+}
+.fs{
+    font-family: fontsansiran;
+}
+.numfont{
+    font-family: fontsansnum;
+}

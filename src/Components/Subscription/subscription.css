@@ -1,0 +1,14 @@
+.btbuy:hover .price{
+    background-color: #0C9349;
+    color: white;
+}
+.btbuy:hover .price2{
+    color:#444444 ;
+}
+.btntow:hover .price{
+    background-color: #0C9349;
+    border: 1px solid #14A455;
+}
+.btntow:hover .price2{
+    color: #707070;
+}

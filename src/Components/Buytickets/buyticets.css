@@ -1,0 +1,22 @@
+.ahohover{
+    display: none;
+}
+.ahoslider:hover .ahohover{
+    display: flex;
+}
+.bgactors{
+    background-image: url(../../../public/Icon/actors1000.png);
+    background-size: cover;
+}
+.bghavaei{
+    background-image: url(../../../public/Buytickets/havaei/Hawaii-Trailer.jpg);
+    background-size: cover;
+}
+.bgnegahban{
+    background-image: url(../../../public/Buytickets/Negahbaneshab/763320_988.jpg);
+    background-size: cover;
+}
+.bggijgah{
+    background-image: url(../../../public/Buytickets/gijgah//58312711-5970-l__2685.jpg);
+    background-size: cover;
+}

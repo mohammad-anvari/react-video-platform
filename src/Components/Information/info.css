@@ -1,0 +1,29 @@
+
+body{
+    scrollbar-width: none;
+}
+.body{
+    background-color: white;
+}
+.btm{
+    margin-right: 5px;
+    margin-left: 0px;
+}
+    
+.bazgasht:hover .btm{
+    margin-right: 2px;
+    margin-left: 3px;
+    transition: margin .5s;
+    transition-duration: .5s;
+    transition-timing-function: ease-out;
+}
+@keyframes drop {
+    0%{display: none;}
+    100%{display: block ;}
+}
+.drpdown{
+    display: none;
+    animation-name: drop;
+    animation-duration: 1s;
+    animation-direction: alternate;
+}
