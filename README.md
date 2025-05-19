@@ -10,6 +10,7 @@ This project is a practice application inspired by Filimo, built with React and 
 - API requests with **Axios**  
 - UI components from **Material UI** and **Material Tailwind**  
 - Responsive design with **Tailwind CSS**  
+- Mock API creation and testing using **json-server**
 
 ## Technologies Used
 
@@ -24,3 +25,5 @@ This project is a practice application inspired by Filimo, built with React and 
 - React Responsive Carousel  
 - React Slick  
 - Swiper  
+- json-server  
+
